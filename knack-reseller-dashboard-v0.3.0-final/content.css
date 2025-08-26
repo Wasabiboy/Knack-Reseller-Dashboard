@@ -1,0 +1,30 @@
+#knack-cost-toolbar {
+  position: fixed;
+  z-index: 2147483000;
+  right: 16px;
+  bottom: 16px;
+  background: #0f141b;
+  color: #e6edf3;
+  border: 1px solid #1f2630;
+  border-radius: 12px;
+  padding: 10px 12px;
+  box-shadow: 0 8px 24px rgba(0,0,0,0.45);
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  font-size: 13px;
+  display: flex;
+  gap: 6px;
+  align-items: center;
+}
+#knack-cost-toolbar button, #knack-cost-toolbar .linklike {
+  background: #6bc2ff;
+  color: #00121f;
+  border: 0;
+  border-radius: 8px;
+  padding: 6px 8px;
+  font-weight: 700;
+  cursor: pointer;
+}
+#knack-cost-toolbar .secondary { background: #2a3240; color: #e6edf3; }
+#knack-cost-toolbar .linklike { text-decoration: none; display: inline-block; }
+.knack-cost-col-header, .knack-cost-col-cell { background: #07172211; }
+.knack-cost-col-cell { font-weight: 600; white-space: nowrap; }
