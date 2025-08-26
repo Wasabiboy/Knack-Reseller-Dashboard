@@ -6,6 +6,8 @@
   Transform your Knack reselling business with powerful analytics and automated billing tools designed specifically
    for Knack partners and resellers.
 
+   ![SAcreenshot](Apps-Knack-DashBoard.png)
+
   🎯 Key Features:
   • Client Usage Tracking - Monitor each client's record count and storage usage in real-time
   • Automated Cost Calculation - Tiered pricing with configurable rates per client
